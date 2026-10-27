@@ -1,0 +1,56 @@
+# Local-only files
+.local/
+.claude/settings.local.json
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa*
+credentials.json
+secrets.json
+secrets.yaml
+secrets.yml
+secrets.toml
+
+# Runtime data and logs
+/data/
+*.log
+*.sqlite
+*.db
+/private/
+
+# Dependencies and tool caches
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.gradle/
+target/
+
+# Build output
+dist/
+/build/
+*.egg-info/
+.next/
+.nuxt/
+coverage/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Project
+/out/
+module/files/audio.primary.pineapple.so

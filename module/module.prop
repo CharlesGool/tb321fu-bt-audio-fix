@@ -1,0 +1,6 @@
+id=tb321fu_bt_audio_fix
+name=TB321FU BT Audio Fix
+version=v1
+versionCode=1
+author=CharlesGool
+description=Legion Y700 Gen3 (TB321FU) GSI: A2DP 改走 vendor 软件编码, 修蓝牙耳机无声/蓝牙通话无声, 关闭不可用的 LE Audio. 通话修复只认 ZUI 17.5.10.170 vendor.
