@@ -104,7 +104,7 @@ python3 scripts/make_offload_disabled_policy.py stock.xml module/files/audio_pol
 
 ## 升级
 
-从旧的 `tb321fu_gsi_fix` 测试模块迁移: 在 KernelSU 或 Magisk 里卸载 `tb321fu_gsi_fix`, 重启, 再安装本模块. 旧模块里的亮度 overlay 不在本模块中, 需要的话用 TB321FU_PixelOS_15_Tangorpro 的 ROM.
+从旧的 `tb321fu_gsi_fix` 测试模块迁移: 在 KernelSU 或 Magisk 里卸载 `tb321fu_gsi_fix`, 重启, 再安装本模块. 旧模块里的亮度 overlay 不在本模块中, 在 [tb321fu-brightness-overlay](https://github.com/CharlesGool/tb321fu-brightness-overlay).
 
 ## 卸载
 
